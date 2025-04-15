@@ -18,7 +18,7 @@ class Animal:
     def comer():
         None
 
-animal1 = Animal("Tayzn","Felina","Verde panda")
+animal1 = Animal("Tayzn","Felin  a","Verde panda")
 animal2 = Animal("Boby","pitbull","Negro")
 animal3 = Animal("Chapi","Cachuchines","Banco y Negro")
 
